@@ -10,7 +10,7 @@
     to help those who spend a lot of time on the computer to exercise
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://move-it-coral.vercel.app/">View Demo</a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
