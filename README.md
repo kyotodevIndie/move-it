@@ -10,7 +10,7 @@
     to help those who spend a lot of time on the computer to exercise
     <br />
     <br />
-    <a href="https://love-calculator-teal.vercel.app/">View Demo</a>
+    <a href="#">View Demo</a>
 </p>
 
 <!-- ABOUT THE PROJECT -->
