@@ -62,4 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
    <p> 
     thank you for your patience to read this far! if possible, give a star!
    </p> 
-   <img src="src/assets/repoassets/1.gif" alt="Logo" width="150" height="150">
+   <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="Logo" width="150" height="150">
