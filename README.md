@@ -8,7 +8,6 @@
     project done in the Next Level Week from 
     <a href="https://rocketseat.com.br/"> Rocketseat </a>
     to help those who spend a lot of time on the computer to exercise
- 
     <br />
     <br />
     <a href="https://love-calculator-teal.vercel.app/">View Demo</a>
